@@ -1,45 +1,5 @@
-{ "a_cappella_groups":
-  [
-    {
-      "id": 1,
-      "name": "SoCal VoCals",
-      "membership": "mixed",
-      "college": {
-        "name": "University of Southern California",
-        "state": "CA",
-        "division": "West"
-      }
-    },
-    {
-      "id": 2,
-      "name": "Sirens",
-      "membership": "soprano/alto",
-        "college": {
-        "name": "University of Southern California",
-        "state": "CA",
-        "division": "West"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Amazin' Blue",
-      "membership": "mixed",
-      "college": {
-        "name": "University of Michigan",
-        "state": "MI",
-        "division": "East"
-      }
-    },
-    {
-      "id": 4,
-      "name": "Off the Beat",
-      "membership": "mixed",
-      "college": {
-        "name": "University of Pennsylvania",
-        "state": "PA",
-        "division": "East"
-      }
-    },
+{
+  "a_cappella_groups": [
     {
       "id": 5,
       "name": "Amalgamates",
@@ -47,36 +7,6 @@
       "college": {
         "name": "Tufts University",
         "state": "MA",
-        "division": "East"
-      }
-    },
-    {
-      "id": 6,
-      "name": "Beelzebubs",
-      "membership": "tenor/bass",
-      "college": {
-        "name": "Tufts University",
-        "state": "MA",
-        "division": "East"
-      }
-    },
-    {
-      "id": 7,
-      "name": "Loreleis",
-      "membership": "soprano/alto",
-      "college": {
-        "name": "University of North Carolina at Chapel Hill",
-        "state": "NC",
-        "division": "East"
-      }
-    },
-    {
-      "id": 8,
-      "name": "Cadence",
-      "membership": "soprano/alto",
-      "college": {
-        "name": "University of North Carolina at Chapel Hill",
-        "state": "NC",
         "division": "East"
       }
     },
@@ -131,16 +61,6 @@
       }
     },
     {
-      "id": 14,
-      "name": "Hullabahoos",
-      "membership": "tenor/bass",
-      "college": {
-        "name": "University of Virginia",
-        "state": "VA",
-        "division": "East"
-      }
-    },
-    {
       "id": 15,
       "name": "Sil'hooettes",
       "membership": "soprano/alto",
@@ -151,9 +71,9 @@
       }
     },
     {
-    "id": 16,
-    "name": "Academical Village People",
-    "membership": "tenor/bass",
+      "id": 16,
+      "name": "Academical Village People",
+      "membership": "tenor/bass",
       "college": {
         "name": "University of Virginia",
         "state": "VA",
@@ -167,16 +87,6 @@
       "college": {
         "name": "Dartmouth",
         "state": "NH",
-        "division": "East"
-      }
-    },
-    {
-      "id": 18,
-      "name": "Whiffenpoofs",
-      "membership": "tenor/bass",
-      "college": {
-        "name": "Yale University",
-        "state": "CT",
         "division": "East"
       }
     },
